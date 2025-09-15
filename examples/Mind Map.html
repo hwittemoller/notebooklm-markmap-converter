@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.markmap-dark {
+  background: #27272a;
+  color: white;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/style.css"><style>h1, h2, h3, h4, h5, h6 {
+    line-height: 1.5;
+}
+h1 {
+    font-size: 36px;
+    font-weight: 400;
+}
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+}
+h3 {
+    font-size: 28px;
+    font-weight: 400;
+}
+h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+h5 {
+    font-size: 20px;
+    font-weight: 400;
+}
+h6 {
+    font-size: 16px;
+    font-weight: 400;
+}</style>
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script><script>(r => {
+              setTimeout(r);
+            })(function renderToolbar() {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+              if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+                document.documentElement.classList.add("markmap-dark");
+              }
+            })(() => window.markmap,null,{"content":"\n<h1 data-lines=\"0,1\">Unrealized Potential</h1>","children":[{"content":"\n<h2 data-lines=\"1,2\">Negative Effects</h2>","children":[{"content":"\n<h3 data-lines=\"2,3\">Regret and Dissatisfaction</h3>","children":[],"payload":{"tag":"li","lines":"2,3"}},{"content":"\n<h3 data-lines=\"3,4\">Missed Opportunities</h3>","children":[],"payload":{"tag":"li","lines":"3,4"}},{"content":"\n<h3 data-lines=\"4,5\">Decreased Self-Esteem</h3>","children":[],"payload":{"tag":"li","lines":"4,5"}},{"content":"\n<h3 data-lines=\"5,6\">Negative Impact on Others</h3>","children":[],"payload":{"tag":"li","lines":"5,6"}},{"content":"\n<h3 data-lines=\"6,7\">Wasted Resources</h3>","children":[],"payload":{"tag":"li","lines":"6,7"}}],"payload":{"tag":"li","lines":"1,7"}},{"content":"\n<h2 data-lines=\"7,8\">Relationship with Higher Self</h2>","children":[{"content":"\n<h3 data-lines=\"8,9\">Definition of Higher Self</h3>","children":[],"payload":{"tag":"li","lines":"8,9"}},{"content":"\n<h3 data-lines=\"9,10\">Alignment with Higher Self</h3>","children":[{"content":"\n<h4 data-lines=\"10,11\">Pursue Meaningful Goals</h4>","children":[],"payload":{"tag":"li","lines":"10,11"}},{"content":"\n<h4 data-lines=\"11,12\">Sense of Purpose and Satisfaction</h4>","children":[],"payload":{"tag":"li","lines":"11,12"}},{"content":"\n<h4 data-lines=\"12,13\">Recognize and Access Potential</h4>","children":[],"payload":{"tag":"li","lines":"12,13"}},{"content":"\n<h4 data-lines=\"13,14\">Spiritual Growth</h4>","children":[],"payload":{"tag":"li","lines":"13,14"}},{"content":"\n<h4 data-lines=\"14,15\">Unlock Full Potential</h4>","children":[],"payload":{"tag":"li","lines":"14,15"}},{"content":"\n<h4 data-lines=\"15,16\">Live Authentic Life</h4>","children":[],"payload":{"tag":"li","lines":"15,16"}}],"payload":{"tag":"li","lines":"9,16"}},{"content":"\n<h3 data-lines=\"16,17\">Blocked Higher Self</h3>","children":[{"content":"\n<h4 data-lines=\"17,18\">Struggle to Recognize Potential</h4>","children":[],"payload":{"tag":"li","lines":"17,18"}},{"content":"\n<h4 data-lines=\"18,19\">Lack Motivation</h4>","children":[],"payload":{"tag":"li","lines":"18,19"}},{"content":"\n<h4 data-lines=\"19,20\">Feelings of Stagnation</h4>","children":[],"payload":{"tag":"li","lines":"19,20"}},{"content":"\n<h4 data-lines=\"20,21\">Dissatisfaction or Despair</h4>","children":[],"payload":{"tag":"li","lines":"20,21"}}],"payload":{"tag":"li","lines":"16,21"}},{"content":"\n<h3 data-lines=\"21,22\">Intrinsic Potential</h3>","children":[],"payload":{"tag":"li","lines":"21,22"}},{"content":"\n<h3 data-lines=\"22,23\">Source of Potential</h3>","children":[],"payload":{"tag":"li","lines":"22,23"}}],"payload":{"tag":"li","lines":"7,23"}},{"content":"\n<h2 data-lines=\"23,24\">Connection to Low Self-Expectations</h2>","children":[{"content":"\n<h3 data-lines=\"24,25\">Limited Belief in Abilities</h3>","children":[],"payload":{"tag":"li","lines":"24,25"}},{"content":"\n<h3 data-lines=\"25,26\">Self-Doubt and Negative Self-Talk</h3>","children":[],"payload":{"tag":"li","lines":"25,26"}},{"content":"\n<h3 data-lines=\"26,27\">Fear of Failure</h3>","children":[],"payload":{"tag":"li","lines":"26,27"}},{"content":"\n<h3 data-lines=\"27,28\">Barrier to Realization</h3>","children":[],"payload":{"tag":"li","lines":"27,28"}}],"payload":{"tag":"li","lines":"23,28"}},{"content":"\n<h2 data-lines=\"28,29\">Role of Obstacles</h2>","children":[{"content":"\n<h3 data-lines=\"29,30\">Testing Ground for Potential</h3>","children":[],"payload":{"tag":"li","lines":"29,30"}},{"content":"\n<h3 data-lines=\"30,31\">Character Development</h3>","children":[],"payload":{"tag":"li","lines":"30,31"}},{"content":"\n<h3 data-lines=\"31,32\">Growth Opportunities</h3>","children":[],"payload":{"tag":"li","lines":"31,32"}},{"content":"\n<h3 data-lines=\"32,33\">Develop Resilience</h3>","children":[],"payload":{"tag":"li","lines":"32,33"}}],"payload":{"tag":"li","lines":"28,33"}},{"content":"\n<h2 data-lines=\"33,34\">Owning the Challenge</h2>","children":[{"content":"\n<h3 data-lines=\"34,35\">Taking Responsibility</h3>","children":[],"payload":{"tag":"li","lines":"34,35"}},{"content":"\n<h3 data-lines=\"35,36\">Sense of Agency</h3>","children":[],"payload":{"tag":"li","lines":"35,36"}},{"content":"\n<h3 data-lines=\"36,37\">Proactive Approach</h3>","children":[],"payload":{"tag":"li","lines":"36,37"}},{"content":"\n<h3 data-lines=\"37,38\">Develop Resilience</h3>","children":[],"payload":{"tag":"li","lines":"37,38"}}],"payload":{"tag":"li","lines":"33,38"}},{"content":"\n<h2 data-lines=\"38,39\">Focus on Potential vs. Achievement</h2>","children":[{"content":"\n<h3 data-lines=\"39,40\">Example: Mentor/Coach</h3>","children":[],"payload":{"tag":"li","lines":"39,40"}},{"content":"\n<h3 data-lines=\"40,41\">Benefits of Focusing on Potential</h3>","children":[{"content":"\n<h4 data-lines=\"41,42\">Intrinsic Motivation</h4>","children":[],"payload":{"tag":"li","lines":"41,42"}},{"content":"\n<h4 data-lines=\"42,43\">Growth Mindset</h4>","children":[],"payload":{"tag":"li","lines":"42,43"}},{"content":"\n<h4 data-lines=\"43,44\">Meaningful Work</h4>","children":[],"payload":{"tag":"li","lines":"43,44"}},{"content":"\n<h4 data-lines=\"44,45\">Personal Growth</h4>","children":[],"payload":{"tag":"li","lines":"44,45"}}],"payload":{"tag":"li","lines":"40,45"}},{"content":"\n<h3 data-lines=\"45,46\">External Success May Follow</h3>","children":[{"content":"\n<h4 data-lines=\"46,47\">Recognition and Rewards</h4>","children":[],"payload":{"tag":"li","lines":"46,47"}},{"content":"\n<h4 data-lines=\"47,48\">Increased Opportunities</h4>","children":[],"payload":{"tag":"li","lines":"47,48"}},{"content":"\n<h4 data-lines=\"48,49\">Positive Reputation</h4>","children":[],"payload":{"tag":"li","lines":"48,49"}}],"payload":{"tag":"li","lines":"45,49"}}],"payload":{"tag":"li","lines":"38,49"}},{"content":"\n<h2 data-lines=\"49,50\">The Pull of Unrealized Potential</h2>","children":[{"content":"\n<h3 data-lines=\"50,51\">Sense of Purpose</h3>","children":[],"payload":{"tag":"li","lines":"50,51"}},{"content":"\n<h3 data-lines=\"51,52\">Unfulfilled Dreams</h3>","children":[],"payload":{"tag":"li","lines":"51,52"}},{"content":"\n<h3 data-lines=\"52,53\">Fear of Missing Out</h3>","children":[],"payload":{"tag":"li","lines":"52,53"}},{"content":"\n<h3 data-lines=\"53,54\">Force for Positive Change</h3>","children":[],"payload":{"tag":"li","lines":"53,54"}}],"payload":{"tag":"li","lines":"49,54"}}],"payload":{"tag":"li","lines":"0,54"}},{"initialExpandLevel":2,"maxWidth":400,"spacingVertical":50,"lineWidth":3,"colorFreezeLevel":2})</script>
+</body>
+</html>

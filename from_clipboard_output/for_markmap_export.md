@@ -1,0 +1,105 @@
+- # Focus On You Until You Win
+    - ## Life is War
+        - ### Hunter vs. Hunted
+        - ### Weakness Punished
+        - ### World Feeds on Weak
+        - ### Every Smile Hides Agenda
+        - ### Survival, Not Morality
+    - ## Self-Focus & Mastery
+        - ### Sharpen Edges
+        - ### Forge Mind into Iron
+        - ### Control Emotions
+        - ### Build Power in Silence
+        - ### Know Self Deeply
+    - ## Law of Power
+        - ### Power is Control
+        - ### Shape World or Be Shaped
+        - ### Obsession: Power, Not Fame
+        - ### Men Moved by Necessity, Fear, Advantage
+        - ### Mastery of Self
+            - #### Command Yourself
+            - #### Resist Impulses
+            - #### Unbreakable Will
+        - ### Mastery Outward
+            - #### Read People
+            - #### Predictable Fears
+            - #### Discipline, Not Chaos
+    - ## Strategy of Silence and Shadow
+        - ### Silence: Strongest Weapon
+        - ### Cultivate Mystery
+        - ### World Fears Unknown
+        - ### Cloak Strategy
+        - ### Let Others Overexpose
+        - ### Silence Draws Attention
+        - ### Say Less Than Necessary
+        - ### Reveal Selectively
+        - ### Move Quietly, Win Quietly
+    - ## Ruthlessness of Discipline
+        - ### Discipline is Survival
+        - ### Sharpen Self Daily
+        - ### Cold, Repetitive, Relentless
+        - ### Habits Decide Throne/Grave
+        - ### World Rewards Purposeful Suffering
+        - ### Destroy Own Weakness
+        - ### Master of Day, Not Slave of Excuses
+    - ## Fear, Respect, and Control
+        - ### Two Forces: Fear & Respect
+        - ### Better to Be Feared Than Loved
+        - ### Fear Without Respect is Unstable
+        - ### Creating Balance
+            - #### Establish Boundaries
+            - #### Unpredictable Punishment
+            - #### Show Competence
+            - #### Withhold Approval
+        - ### Do Not Confuse Popularity with Power
+    - ## Art of Psychological Warfare
+        - ### Battle Fought Twice: Mind, Then World
+        - ### Control of Mind: Clean, Efficient, Permanent
+        - ### Key Tactics
+            - #### Control Perception (Appear Strong)
+            - #### Plant Doubt
+            - #### Control the Frame
+            - #### Intimidation by Presence
+            - #### Unpredictability
+            - #### Use Scarcity
+        - ### Conquer Minds Before Battles
+    - ## Fortress of Emotional Control
+        - ### Master Emotions, Master Destiny
+        - ### Enemies Out-Emotion You
+        - ### Emotion as Mask, Not Master
+        - ### Calm Where Others Rage
+        - ### Controlling Specific Emotions
+            - #### Anger: Channel into Precision
+            - #### Fear: Signal, Not Master
+            - #### Desire: Master Them
+            - #### Ego: Silence It
+        - ### Control is Redirection
+        - ### Untouchable Through Control
+    - ## Power of Ruthless Adaptation
+        - ### Rigidity is Death
+        - ### Thrive in Chaos
+        - ### Adaptation is Control, Not Compromise
+        - ### Be Water, Be Shadow
+        - ### Weapons for Adaptation
+            - #### Awareness (See Shifts)
+            - #### Ruthlessness (Act Without Hesitation)
+        - ### Master Multiple Masks
+        - ### Adapt, Therefore Survive & Dominate
+    - ## Isolation of the Elite
+        - ### Greatness is Lonely
+        - ### Few Can Follow
+        - ### Separate, Elevate, Distance
+        - ### Isolation is Sharpening
+        - ### Path is Brutal (Friends, Family Resent)
+        - ### Teaches Self-Reliance
+        - ### Early Stages Demand Separation
+    - ## Final Command: Dominate or Be Dominated
+        - ### No Middle Ground
+        - ### Reality: Rulers and Ruled
+        - ### Levels of Domination
+            - #### Dominate Yourself (Body, Habits, Impulses)
+            - #### Dominate Environment (Shape to Mission)
+            - #### Dominate Others (Clarity, Not Cruelty)
+        - ### Dominate with Strategy, Not Emotion
+        - ### Quiet, Patient, Inevitable
+        - ### Refuse to Be Dominated
