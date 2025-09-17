@@ -1,105 +1,79 @@
-- # Focus On You Until You Win
-    - ## Life is War
-        - ### Hunter vs. Hunted
-        - ### Weakness Punished
-        - ### World Feeds on Weak
-        - ### Every Smile Hides Agenda
-        - ### Survival, Not Morality
-    - ## Self-Focus & Mastery
-        - ### Sharpen Edges
-        - ### Forge Mind into Iron
-        - ### Control Emotions
-        - ### Build Power in Silence
-        - ### Know Self Deeply
-    - ## Law of Power
-        - ### Power is Control
-        - ### Shape World or Be Shaped
-        - ### Obsession: Power, Not Fame
-        - ### Men Moved by Necessity, Fear, Advantage
-        - ### Mastery of Self
-            - #### Command Yourself
-            - #### Resist Impulses
-            - #### Unbreakable Will
-        - ### Mastery Outward
-            - #### Read People
-            - #### Predictable Fears
-            - #### Discipline, Not Chaos
-    - ## Strategy of Silence and Shadow
-        - ### Silence: Strongest Weapon
-        - ### Cultivate Mystery
-        - ### World Fears Unknown
-        - ### Cloak Strategy
-        - ### Let Others Overexpose
-        - ### Silence Draws Attention
-        - ### Say Less Than Necessary
-        - ### Reveal Selectively
-        - ### Move Quietly, Win Quietly
-    - ## Ruthlessness of Discipline
-        - ### Discipline is Survival
-        - ### Sharpen Self Daily
-        - ### Cold, Repetitive, Relentless
-        - ### Habits Decide Throne/Grave
-        - ### World Rewards Purposeful Suffering
-        - ### Destroy Own Weakness
-        - ### Master of Day, Not Slave of Excuses
-    - ## Fear, Respect, and Control
-        - ### Two Forces: Fear & Respect
-        - ### Better to Be Feared Than Loved
-        - ### Fear Without Respect is Unstable
-        - ### Creating Balance
-            - #### Establish Boundaries
-            - #### Unpredictable Punishment
-            - #### Show Competence
-            - #### Withhold Approval
-        - ### Do Not Confuse Popularity with Power
-    - ## Art of Psychological Warfare
-        - ### Battle Fought Twice: Mind, Then World
-        - ### Control of Mind: Clean, Efficient, Permanent
-        - ### Key Tactics
-            - #### Control Perception (Appear Strong)
-            - #### Plant Doubt
-            - #### Control the Frame
-            - #### Intimidation by Presence
-            - #### Unpredictability
-            - #### Use Scarcity
-        - ### Conquer Minds Before Battles
-    - ## Fortress of Emotional Control
-        - ### Master Emotions, Master Destiny
-        - ### Enemies Out-Emotion You
-        - ### Emotion as Mask, Not Master
-        - ### Calm Where Others Rage
-        - ### Controlling Specific Emotions
-            - #### Anger: Channel into Precision
-            - #### Fear: Signal, Not Master
-            - #### Desire: Master Them
-            - #### Ego: Silence It
-        - ### Control is Redirection
-        - ### Untouchable Through Control
-    - ## Power of Ruthless Adaptation
-        - ### Rigidity is Death
-        - ### Thrive in Chaos
-        - ### Adaptation is Control, Not Compromise
-        - ### Be Water, Be Shadow
-        - ### Weapons for Adaptation
-            - #### Awareness (See Shifts)
-            - #### Ruthlessness (Act Without Hesitation)
-        - ### Master Multiple Masks
-        - ### Adapt, Therefore Survive & Dominate
-    - ## Isolation of the Elite
-        - ### Greatness is Lonely
-        - ### Few Can Follow
-        - ### Separate, Elevate, Distance
-        - ### Isolation is Sharpening
-        - ### Path is Brutal (Friends, Family Resent)
-        - ### Teaches Self-Reliance
-        - ### Early Stages Demand Separation
-    - ## Final Command: Dominate or Be Dominated
-        - ### No Middle Ground
-        - ### Reality: Rulers and Ruled
-        - ### Levels of Domination
-            - #### Dominate Yourself (Body, Habits, Impulses)
-            - #### Dominate Environment (Shape to Mission)
-            - #### Dominate Others (Clarity, Not Cruelty)
-        - ### Dominate with Strategy, Not Emotion
-        - ### Quiet, Patient, Inevitable
-        - ### Refuse to Be Dominated
+- # Schema Priming: Boost Learning Efficiency
+    - ## What is Schema Priming?
+        - ### Brain's Information Processing
+            - #### Understand new information
+            - #### Fit new information with existing knowledge
+            - #### Prunes and filters information
+            - #### Relates to existing knowledge
+        - ### Schema Definition
+            - #### Big picture
+            - #### How things fit together
+            - #### Web of ideas and concepts
+            - #### Memory structure
+        - ### Importance of Early Schema Formation
+            - #### Prevents memory leaking/fading
+            - #### Difficult/overwhelming if formed later
+            - #### Memory poor until organized
+            - #### Not automatic (requires active creation)
+        - ### Benefit of Upfront Schema
+            - #### Brain focuses on 'what it is'
+            - #### Already knows 'where it fits'
+            - #### Easier information organization
+        - ### Quick process (10 minutes)
+    - ## Three Steps to Schema Priming
+        - ### Step 1: Scope the Topic
+            - #### Get a lay of the land
+            - #### Identify main ideas/pillars
+            - #### Create basic scaffolds of networks
+            - #### Techniques for Scoping
+                - ##### Syntopical Reading
+                    - ###### Read multiple resources simultaneously
+                    - ###### Combine ideas from different sources
+                    - ###### Avoid missing important perspectives
+                - ##### Smart Skimming
+                    - ###### Actively look for important items
+                    - ###### Headings and subheadings
+                    - ###### Diagrams, bolded words
+                    - ###### Be selective, ignore the rest (for now)
+                - ##### Detail Coding
+                    - ###### Understand depth of detail in sources
+                    - ###### Know where to find specific answers
+        - ### Step 2: Make Judgments and Hypotheses
+            - #### Actively build schema
+            - #### Compare and contrast ideas
+            - #### Judge influence/importance of concepts
+            - #### Think about ideas in bigger picture
+            - #### Hypotheses: don't need certainty
+            - #### Give brain a head start
+            - #### Focus on 'how to think', not 'what to remember'
+        - ### Step 3: Prep Your Future Self
+            - #### Supercharged highlighting
+            - #### Identify unknowns and complicated areas
+            - #### Set Flags (Questions)
+                - ##### Note complicated areas
+                - ##### Reminds future self of complexity
+                - ##### Maintains schema perspective
+            - #### Actively Find Problems
+                - ##### Look for things that don't make sense
+                - ##### Mental targets for future learning
+                - ##### Helps brain be more critical/focused
+            - #### Helps brain process more effectively
+    - ## Indicators of Correct Schema Priming
+        - ### Time
+            - #### Fast process: 5-10 minutes maximum
+            - #### Longer indicates too much detail
+            - #### Focus on 'how to think', not 'what to remember'
+        - ### Comfort with Topic
+            - #### May feel uncomfortable at first
+            - #### Should feel comfortable learning about it
+            - #### Know how to think about it
+        - ### Type of Knowledge
+            - #### Good big picture understanding
+            - #### NOT memorized definitions
+            - #### NOT able to explain concepts in detail
+            - #### Focus on wide/superficial connections, not isolated depth
+    - ## Benefits of Schema Priming
+        - ### Significantly boosts retention
+        - ### Increases comfort with topic
+        - ### Makes learning more engaging
+    - ## Part of a complete learning system
